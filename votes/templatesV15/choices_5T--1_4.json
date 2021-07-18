@@ -1,0 +1,124 @@
+{
+  "precinct": "5T--1",
+  "page": 4,
+  "ul_barcode": "",
+  "ll_barcode": "",
+  "scan_date": "2Jan2020",
+  "operator": "McCallie",
+  "M_matrix": [
+    [
+      0.9999898890134513,
+      -0.0044968734544486464,
+      -5.502612651822604
+    ],
+    [
+      0.0044968734544486464,
+      0.9999898890134513,
+      -29.698789962306442
+    ]
+  ],
+  "contests": [
+    {
+      "contest_name": "Proposition 21",
+      "votes_allowed": 1,
+      "column": 1,
+      "choice_boxes": [
+        {
+          "cX": 266,
+          "cY": 1110,
+          "candidate": "Yes"
+        },
+        {
+          "cX": 266,
+          "cY": 1211,
+          "candidate": "No"
+        }
+      ]
+    },
+    {
+      "contest_name": "Proposition 22",
+      "votes_allowed": 1,
+      "column": 1,
+      "choice_boxes": [
+        {
+          "cX": 266,
+          "cY": 1921,
+          "candidate": "Yes"
+        },
+        {
+          "cX": 266,
+          "cY": 2022,
+          "candidate": "No"
+        }
+      ]
+    },
+    {
+      "contest_name": "Proposition 23",
+      "votes_allowed": 1,
+      "column": 1,
+      "choice_boxes": [
+        {
+          "cX": 267,
+          "cY": 2790,
+          "candidate": "Yes"
+        },
+        {
+          "cX": 266,
+          "cY": 2890,
+          "candidate": "No"
+        }
+      ]
+    },
+    {
+      "contest_name": "Proposition 24",
+      "votes_allowed": 1,
+      "column": 1,
+      "choice_boxes": [
+        {
+          "cX": 266,
+          "cY": 3772,
+          "candidate": "Yes"
+        },
+        {
+          "cX": 266,
+          "cY": 3873,
+          "candidate": "No"
+        }
+      ]
+    },
+    {
+      "contest_name": "Proposition 25",
+      "votes_allowed": 1,
+      "column": 2,
+      "choice_boxes": [
+        {
+          "cX": 1350,
+          "cY": 1054,
+          "candidate": "Yes"
+        },
+        {
+          "cX": 1350,
+          "cY": 1154,
+          "candidate": "No"
+        }
+      ]
+    },
+    {
+      "contest_name": "Measure E City Of Trinidad, Special Tax",
+      "votes_allowed": 1,
+      "column": 2,
+      "choice_boxes": [
+        {
+          "cX": 1350,
+          "cY": 1684,
+          "candidate": "Yes"
+        },
+        {
+          "cX": 1350,
+          "cY": 1783,
+          "candidate": "No"
+        }
+      ]
+    }
+  ]
+}

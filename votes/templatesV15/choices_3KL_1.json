@@ -1,0 +1,120 @@
+{
+  "precinct": "3KL",
+  "page": 1,
+  "ul_barcode": "",
+  "ll_barcode": "",
+  "scan_date": "2Jan2020",
+  "operator": "McCallie",
+  "M_matrix": [
+    [
+      0.9999834179388829,
+      0.005758806062846639,
+      -5.428563375139337
+    ],
+    [
+      -0.005758806062846639,
+      0.9999834179388829,
+      13.360023640286833
+    ]
+  ],
+  "contests": [
+    {
+      "contest_name": "PRESIDENT AND VICE PRESIDENT",
+      "votes_allowed": 1,
+      "column": 1,
+      "choice_boxes": [
+        {
+          "cX": 266,
+          "cY": 1372,
+          "candidate": "DONALD J. TRUMP and MICHAEL R. PENCE"
+        },
+        {
+          "cX": 265,
+          "cY": 1543,
+          "candidate": "GLORIA LA RIVA and SUNIL FREEMAN"
+        },
+        {
+          "cX": 266,
+          "cY": 1715,
+          "candidate": "ROQUE \"ROCKY\" DE LA FUENTE GUERRA and KANYE OMARI WEST"
+        },
+        {
+          "cX": 266,
+          "cY": 1885,
+          "candidate": "HOWIE HAWKINS and ANGELA NICOLE WALKER"
+        },
+        {
+          "cX": 266,
+          "cY": 2058,
+          "candidate": "JO JORGENSEN and JEREMY \"SPIKE\" COHEN"
+        },
+        {
+          "cX": 266,
+          "cY": 2230,
+          "candidate": "JOSEPH R. BIDEN and KAMALA D. HARRIS"
+        },
+        {
+          "cX": 266,
+          "cY": 2401,
+          "candidate": "(Write In 1)"
+        }
+      ]
+    },
+    {
+      "contest_name": "US REPRESENTATIVE DISTRICT 2",
+      "votes_allowed": 1,
+      "column": 1,
+      "choice_boxes": [
+        {
+          "cX": 266,
+          "cY": 3655,
+          "candidate": "JARED HUFFMAN"
+        },
+        {
+          "cX": 266,
+          "cY": 3823,
+          "candidate": "DALE K. MENSING"
+        }
+      ]
+    },
+    {
+      "contest_name": "STATE ASSEMBLY DISTRICT 2",
+      "votes_allowed": 1,
+      "column": 2,
+      "choice_boxes": [
+        {
+          "cX": 1354,
+          "cY": 750,
+          "candidate": "CHARLOTTE SVOLOS"
+        },
+        {
+          "cX": 1354,
+          "cY": 918,
+          "candidate": "JIM WOOD"
+        }
+      ]
+    },
+    {
+      "contest_name": "REDWOOD COMMUNITY COLLEGE DISTRICT GOVERNING BOARD MEMBER TRUSTEE AREA 7",
+      "votes_allowed": 1,
+      "column": 2,
+      "choice_boxes": [
+        {
+          "cX": 1354,
+          "cY": 1435,
+          "candidate": "SALLY BIGGIN"
+        },
+        {
+          "cX": 1353,
+          "cY": 1553,
+          "candidate": "STEPHEN A. BURBANK"
+        },
+        {
+          "cX": 1354,
+          "cY": 1672,
+          "candidate": "(Write In 1)"
+        }
+      ]
+    }
+  ]
+}

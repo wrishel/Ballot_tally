@@ -1,0 +1,152 @@
+{
+  "precinct": "3A-J1",
+  "page": 1,
+  "ul_barcode": "",
+  "ll_barcode": "",
+  "scan_date": "2Jan2020",
+  "operator": "McCallie",
+  "M_matrix": [
+    [
+      0.9999822715435148,
+      0.00595454437150515,
+      -11.591581206558544
+    ],
+    [
+      -0.00595454437150515,
+      0.9999822715435148,
+      4.611410199173424
+    ]
+  ],
+  "contests": [
+    {
+      "contest_name": "PRESIDENT AND VICE PRESIDENT",
+      "votes_allowed": 1,
+      "column": 1,
+      "choice_boxes": [
+        {
+          "cX": 267,
+          "cY": 1372,
+          "candidate": "DONALD J. TRUMP and MICHAEL R. PENCE"
+        },
+        {
+          "cX": 266,
+          "cY": 1542,
+          "candidate": "GLORIA LA RIVA and SUNIL FREEMAN"
+        },
+        {
+          "cX": 267,
+          "cY": 1714,
+          "candidate": "ROQUE \"ROCKY\" DE LA FUENTE GUERRA and KANYE OMARI WEST"
+        },
+        {
+          "cX": 267,
+          "cY": 1885,
+          "candidate": "HOWIE HAWKINS and ANGELA NICOLE WALKER"
+        },
+        {
+          "cX": 266,
+          "cY": 2057,
+          "candidate": "JO JORGENSEN and JEREMY \"SPIKE\" COHEN"
+        },
+        {
+          "cX": 266,
+          "cY": 2230,
+          "candidate": "JOSEPH R. BIDEN and KAMALA D. HARRIS"
+        },
+        {
+          "cX": 266,
+          "cY": 2402,
+          "candidate": "(Write In 1)"
+        }
+      ]
+    },
+    {
+      "contest_name": "US REPRESENTATIVE DISTRICT 2",
+      "votes_allowed": 1,
+      "column": 1,
+      "choice_boxes": [
+        {
+          "cX": 266,
+          "cY": 3653,
+          "candidate": "JARED HUFFMAN"
+        },
+        {
+          "cX": 266,
+          "cY": 3821,
+          "candidate": "DALE K. MENSING"
+        }
+      ]
+    },
+    {
+      "contest_name": "STATE ASSEMBLY DISTRICT 2",
+      "votes_allowed": 1,
+      "column": 2,
+      "choice_boxes": [
+        {
+          "cX": 1353,
+          "cY": 748,
+          "candidate": "CHARLOTTE SVOLOS"
+        },
+        {
+          "cX": 1353,
+          "cY": 917,
+          "candidate": "JIM WOOD"
+        }
+      ]
+    },
+    {
+      "contest_name": "REDWOOD COMMUNITY COLLEGE DISTRICT GOVERNING BOARD MEMBER TRUSTEE AREA 6",
+      "votes_allowed": 1,
+      "column": 2,
+      "choice_boxes": [
+        {
+          "cX": 1353,
+          "cY": 1434,
+          "candidate": "KEOKI BURBANK"
+        },
+        {
+          "cX": 1353,
+          "cY": 1552,
+          "candidate": "COLLEEN BRIDGET MULLERY"
+        },
+        {
+          "cX": 1353,
+          "cY": 1670,
+          "candidate": "(Write In 1)"
+        }
+      ]
+    },
+    {
+      "contest_name": "NORTHERN HUMBOLDT UNION HIGH SCHOOL DISTRICT GOVERNING BOARD MEMBER",
+      "votes_allowed": 2,
+      "column": 2,
+      "choice_boxes": [
+        {
+          "cX": 1353,
+          "cY": 2083,
+          "candidate": "CEDRIC K. AARON, JR"
+        },
+        {
+          "cX": 1354,
+          "cY": 2202,
+          "candidate": "ARISTEA SAULSBURY"
+        },
+        {
+          "cX": 1353,
+          "cY": 2320,
+          "candidate": "JANELLE JONES"
+        },
+        {
+          "cX": 1353,
+          "cY": 2439,
+          "candidate": "(Write In 1)"
+        },
+        {
+          "cX": 1353,
+          "cY": 2592,
+          "candidate": "(Write In 2)"
+        }
+      ]
+    }
+  ]
+}

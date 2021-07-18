@@ -1,0 +1,107 @@
+{
+  "precinct": "3B--1",
+  "page": 4,
+  "ul_barcode": "",
+  "ll_barcode": "",
+  "scan_date": "2Jan2020",
+  "operator": "McCallie",
+  "M_matrix": [
+    [
+      0.9999995955484886,
+      -0.0008993902707870622,
+      -11.590212380157489
+    ],
+    [
+      0.0008993902707870622,
+      0.9999995955484886,
+      -15.143175076267218
+    ]
+  ],
+  "contests": [
+    {
+      "contest_name": "Proposition 21",
+      "votes_allowed": 1,
+      "column": 1,
+      "choice_boxes": [
+        {
+          "cX": 266,
+          "cY": 1115,
+          "candidate": "Yes"
+        },
+        {
+          "cX": 266,
+          "cY": 1215,
+          "candidate": "No"
+        }
+      ]
+    },
+    {
+      "contest_name": "Proposition 22",
+      "votes_allowed": 1,
+      "column": 1,
+      "choice_boxes": [
+        {
+          "cX": 266,
+          "cY": 1925,
+          "candidate": "Yes"
+        },
+        {
+          "cX": 266,
+          "cY": 2026,
+          "candidate": "No"
+        }
+      ]
+    },
+    {
+      "contest_name": "Proposition 23",
+      "votes_allowed": 1,
+      "column": 1,
+      "choice_boxes": [
+        {
+          "cX": 266,
+          "cY": 2793,
+          "candidate": "Yes"
+        },
+        {
+          "cX": 266,
+          "cY": 2894,
+          "candidate": "No"
+        }
+      ]
+    },
+    {
+      "contest_name": "Proposition 24",
+      "votes_allowed": 1,
+      "column": 1,
+      "choice_boxes": [
+        {
+          "cX": 266,
+          "cY": 3777,
+          "candidate": "Yes"
+        },
+        {
+          "cX": 266,
+          "cY": 3877,
+          "candidate": "No"
+        }
+      ]
+    },
+    {
+      "contest_name": "Proposition 25",
+      "votes_allowed": 1,
+      "column": 2,
+      "choice_boxes": [
+        {
+          "cX": 1350,
+          "cY": 1058,
+          "candidate": "Yes"
+        },
+        {
+          "cX": 1349,
+          "cY": 1159,
+          "candidate": "No"
+        }
+      ]
+    }
+  ]
+}

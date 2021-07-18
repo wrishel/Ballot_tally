@@ -1,0 +1,141 @@
+{
+  "precinct": "4E-11",
+  "page": 3,
+  "ul_barcode": "",
+  "ll_barcode": "",
+  "scan_date": "2Jan2020",
+  "operator": "McCallie",
+  "M_matrix": [
+    [
+      0.9999998892703852,
+      0.0004705945360798597,
+      19.737920764685146
+    ],
+    [
+      -0.0004705945360798597,
+      0.9999998892703852,
+      -17.401171217915316
+    ]
+  ],
+  "contests": [
+    {
+      "contest_name": "Proposition 21",
+      "votes_allowed": 1,
+      "column": 1,
+      "choice_boxes": [
+        {
+          "cX": 267,
+          "cY": 1115,
+          "candidate": "Yes"
+        },
+        {
+          "cX": 267,
+          "cY": 1214,
+          "candidate": "No"
+        }
+      ]
+    },
+    {
+      "contest_name": "Proposition 22",
+      "votes_allowed": 1,
+      "column": 1,
+      "choice_boxes": [
+        {
+          "cX": 266,
+          "cY": 1922,
+          "candidate": "Yes"
+        },
+        {
+          "cX": 266,
+          "cY": 2023,
+          "candidate": "No"
+        }
+      ]
+    },
+    {
+      "contest_name": "Proposition 23",
+      "votes_allowed": 1,
+      "column": 1,
+      "choice_boxes": [
+        {
+          "cX": 267,
+          "cY": 2790,
+          "candidate": "Yes"
+        },
+        {
+          "cX": 266,
+          "cY": 2889,
+          "candidate": "No"
+        }
+      ]
+    },
+    {
+      "contest_name": "Proposition 24",
+      "votes_allowed": 1,
+      "column": 1,
+      "choice_boxes": [
+        {
+          "cX": 266,
+          "cY": 3769,
+          "candidate": "Yes"
+        },
+        {
+          "cX": 266,
+          "cY": 3869,
+          "candidate": "No"
+        }
+      ]
+    },
+    {
+      "contest_name": "Proposition 25",
+      "votes_allowed": 1,
+      "column": 2,
+      "choice_boxes": [
+        {
+          "cX": 1352,
+          "cY": 1059,
+          "candidate": "Yes"
+        },
+        {
+          "cX": 1352,
+          "cY": 1158,
+          "candidate": "No"
+        }
+      ]
+    },
+    {
+      "contest_name": "Measure C City Of Eureka, Charter Amendment",
+      "votes_allowed": 1,
+      "column": 2,
+      "choice_boxes": [
+        {
+          "cX": 1352,
+          "cY": 1742,
+          "candidate": "Yes"
+        },
+        {
+          "cX": 1352,
+          "cY": 1842,
+          "candidate": "No"
+        }
+      ]
+    },
+    {
+      "contest_name": "Measure H City Of Eureka, Supplemental Transaction and Use Tax",
+      "votes_allowed": 1,
+      "column": 2,
+      "choice_boxes": [
+        {
+          "cX": 1352,
+          "cY": 2727,
+          "candidate": "Yes"
+        },
+        {
+          "cX": 1352,
+          "cY": 2827,
+          "candidate": "No"
+        }
+      ]
+    }
+  ]
+}

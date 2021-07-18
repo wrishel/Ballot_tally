@@ -1,0 +1,124 @@
+{
+  "precinct": "4PE",
+  "page": 3,
+  "ul_barcode": "",
+  "ll_barcode": "",
+  "scan_date": "2Jan2020",
+  "operator": "McCallie",
+  "M_matrix": [
+    [
+      0.9999782076295243,
+      0.006601838080718482,
+      -1.2805828232871264
+    ],
+    [
+      -0.006601838080718482,
+      0.9999782076295243,
+      -9.556697983327066
+    ]
+  ],
+  "contests": [
+    {
+      "contest_name": "Proposition 21",
+      "votes_allowed": 1,
+      "column": 1,
+      "choice_boxes": [
+        {
+          "cX": 266,
+          "cY": 1123,
+          "candidate": "Yes"
+        },
+        {
+          "cX": 266,
+          "cY": 1223,
+          "candidate": "No"
+        }
+      ]
+    },
+    {
+      "contest_name": "Proposition 22",
+      "votes_allowed": 1,
+      "column": 1,
+      "choice_boxes": [
+        {
+          "cX": 266,
+          "cY": 1933,
+          "candidate": "Yes"
+        },
+        {
+          "cX": 266,
+          "cY": 2032,
+          "candidate": "No"
+        }
+      ]
+    },
+    {
+      "contest_name": "Proposition 23",
+      "votes_allowed": 1,
+      "column": 1,
+      "choice_boxes": [
+        {
+          "cX": 266,
+          "cY": 2801,
+          "candidate": "Yes"
+        },
+        {
+          "cX": 266,
+          "cY": 2901,
+          "candidate": "No"
+        }
+      ]
+    },
+    {
+      "contest_name": "Proposition 24",
+      "votes_allowed": 1,
+      "column": 1,
+      "choice_boxes": [
+        {
+          "cX": 266,
+          "cY": 3783,
+          "candidate": "Yes"
+        },
+        {
+          "cX": 266,
+          "cY": 3883,
+          "candidate": "No"
+        }
+      ]
+    },
+    {
+      "contest_name": "Proposition 25",
+      "votes_allowed": 1,
+      "column": 2,
+      "choice_boxes": [
+        {
+          "cX": 1354,
+          "cY": 1064,
+          "candidate": "Yes"
+        },
+        {
+          "cX": 1354,
+          "cY": 1164,
+          "candidate": "No"
+        }
+      ]
+    },
+    {
+      "contest_name": "Measure I County of Humboldt, Unincorporated Area",
+      "votes_allowed": 1,
+      "column": 2,
+      "choice_boxes": [
+        {
+          "cX": 1354,
+          "cY": 1972,
+          "candidate": "Yes"
+        },
+        {
+          "cX": 1354,
+          "cY": 2072,
+          "candidate": "No"
+        }
+      ]
+    }
+  ]
+}

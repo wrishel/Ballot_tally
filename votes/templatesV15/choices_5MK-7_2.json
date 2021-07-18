@@ -1,0 +1,81 @@
+{
+  "precinct": "5MK-7",
+  "page": 2,
+  "ul_barcode": "",
+  "ll_barcode": "",
+  "scan_date": "2Jan2020",
+  "operator": "McCallie",
+  "M_matrix": [
+    [
+      0.9999981433853963,
+      -0.0019269732121805529,
+      -17.800314098652716
+    ],
+    [
+      0.0019269732121805529,
+      0.9999981433853963,
+      -19.447211035225845
+    ]
+  ],
+  "contests": [
+    {
+      "contest_name": "MCKINLEYVILLE COMMUNITY SERVICES DISTRICT DIRECTOR, 4-YR",
+      "votes_allowed": 2,
+      "column": 1,
+      "choice_boxes": [
+        {
+          "cX": 266,
+          "cY": 791,
+          "candidate": "SCOTT BINDER"
+        },
+        {
+          "cX": 266,
+          "cY": 910,
+          "candidate": "GREG ORSINI"
+        },
+        {
+          "cX": 265,
+          "cY": 1028,
+          "candidate": "WILLIAM MCBROOME"
+        },
+        {
+          "cX": 266,
+          "cY": 1147,
+          "candidate": "(Write In 1)"
+        },
+        {
+          "cX": 266,
+          "cY": 1300,
+          "candidate": "(Write In 2)"
+        }
+      ]
+    },
+    {
+      "contest_name": "MCKINLEYVILLE COMMUNITY SERVICES DISTRICT DIRECTOR, 2-YR",
+      "votes_allowed": 1,
+      "column": 1,
+      "choice_boxes": [
+        {
+          "cX": 266,
+          "cY": 1711,
+          "candidate": "WESLEY MARTIN"
+        },
+        {
+          "cX": 266,
+          "cY": 1830,
+          "candidate": "JOELLEN CLARK-PETERSON"
+        },
+        {
+          "cX": 266,
+          "cY": 1948,
+          "candidate": "JIMMY VANCE"
+        },
+        {
+          "cX": 266,
+          "cY": 2023,
+          "candidate": "(Write In 1)"
+        }
+      ]
+    }
+  ]
+}

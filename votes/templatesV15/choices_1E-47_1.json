@@ -1,0 +1,135 @@
+{
+  "precinct": "1E-47",
+  "page": 1,
+  "ul_barcode": "",
+  "ll_barcode": "",
+  "scan_date": "2Jan2020",
+  "operator": "McCallie",
+  "M_matrix": [
+    [
+      0.9999989779041321,
+      -0.0014297519684436525,
+      5.510630435964755
+    ],
+    [
+      0.0014297519684436525,
+      0.9999989779041321,
+      -0.8164981025376479
+    ]
+  ],
+  "contests": [
+    {
+      "contest_name": "PRESIDENT AND VICE PRESIDENT",
+      "votes_allowed": 1,
+      "column": 1,
+      "choice_boxes": [
+        {
+          "cX": 266,
+          "cY": 1359,
+          "candidate": "DONALD J. TRUMP and MICHAEL R. PENCE"
+        },
+        {
+          "cX": 266,
+          "cY": 1530,
+          "candidate": "GLORIA LA RIVA and SUNIL FREEMAN"
+        },
+        {
+          "cX": 266,
+          "cY": 1702,
+          "candidate": "ROQUE \"ROCKY\" DE LA FUENTE GUERRA and KANYE OMARI WEST"
+        },
+        {
+          "cX": 266,
+          "cY": 1873,
+          "candidate": "HOWIE HAWKINS and ANGELA NICOLE WALKER"
+        },
+        {
+          "cX": 266,
+          "cY": 2046,
+          "candidate": "JO JORGENSEN and JEREMY \"SPIKE\" COHEN"
+        },
+        {
+          "cX": 266,
+          "cY": 2218,
+          "candidate": "JOSEPH R. BIDEN and KAMALA D. HARRIS"
+        },
+        {
+          "cX": 266,
+          "cY": 2389,
+          "candidate": "(Write In 1)"
+        }
+      ]
+    },
+    {
+      "contest_name": "US REPRESENTATIVE DISTRICT 2",
+      "votes_allowed": 1,
+      "column": 1,
+      "choice_boxes": [
+        {
+          "cX": 266,
+          "cY": 3639,
+          "candidate": "JARED HUFFMAN"
+        },
+        {
+          "cX": 266,
+          "cY": 3807,
+          "candidate": "DALE K. MENSING"
+        }
+      ]
+    },
+    {
+      "contest_name": "STATE ASSEMBLY DISTRICT 2",
+      "votes_allowed": 1,
+      "column": 2,
+      "choice_boxes": [
+        {
+          "cX": 1349,
+          "cY": 740,
+          "candidate": "CHARLOTTE SVOLOS"
+        },
+        {
+          "cX": 1349,
+          "cY": 908,
+          "candidate": "JIM WOOD"
+        }
+      ]
+    },
+    {
+      "contest_name": "CITY OF EUREKA COUNCILMEMBER WARD 4",
+      "votes_allowed": 1,
+      "column": 2,
+      "choice_boxes": [
+        {
+          "cX": 1349,
+          "cY": 1370,
+          "candidate": "SCOTT BAUER"
+        },
+        {
+          "cX": 1349,
+          "cY": 1488,
+          "candidate": "WILLIAM A. TUTTLE JR"
+        },
+        {
+          "cX": 1349,
+          "cY": 1607,
+          "candidate": "MATTHEW OWEN"
+        },
+        {
+          "cX": 1349,
+          "cY": 1725,
+          "candidate": "EDDIE MORGAN"
+        },
+        {
+          "cX": 1349,
+          "cY": 1843,
+          "candidate": "LIZA WELSH"
+        },
+        {
+          "cX": 1349,
+          "cY": 1962,
+          "candidate": "(Write In 1)"
+        }
+      ]
+    }
+  ]
+}

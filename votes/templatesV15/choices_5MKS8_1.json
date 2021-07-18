@@ -1,0 +1,189 @@
+{
+  "precinct": "5MKS8",
+  "page": 1,
+  "ul_barcode": "",
+  "ll_barcode": "",
+  "scan_date": "2Jan2020",
+  "operator": "McCallie",
+  "M_matrix": [
+    [
+      0.9999820957826167,
+      0.005983988152209321,
+      0.3331080292470432
+    ],
+    [
+      -0.005983988152209321,
+      0.9999820957826167,
+      0.6492317861152834
+    ]
+  ],
+  "contests": [
+    {
+      "contest_name": "PRESIDENT AND VICE PRESIDENT",
+      "votes_allowed": 1,
+      "column": 1,
+      "choice_boxes": [
+        {
+          "cX": 266,
+          "cY": 1370,
+          "candidate": "DONALD J. TRUMP and MICHAEL R. PENCE"
+        },
+        {
+          "cX": 265,
+          "cY": 1540,
+          "candidate": "GLORIA LA RIVA and SUNIL FREEMAN"
+        },
+        {
+          "cX": 266,
+          "cY": 1712,
+          "candidate": "ROQUE \"ROCKY\" DE LA FUENTE GUERRA and KANYE OMARI WEST"
+        },
+        {
+          "cX": 266,
+          "cY": 1883,
+          "candidate": "HOWIE HAWKINS and ANGELA NICOLE WALKER"
+        },
+        {
+          "cX": 267,
+          "cY": 2055,
+          "candidate": "JO JORGENSEN and JEREMY \"SPIKE\" COHEN"
+        },
+        {
+          "cX": 266,
+          "cY": 2226,
+          "candidate": "JOSEPH R. BIDEN and KAMALA D. HARRIS"
+        },
+        {
+          "cX": 266,
+          "cY": 2398,
+          "candidate": "(Write In 1)"
+        }
+      ]
+    },
+    {
+      "contest_name": "US REPRESENTATIVE DISTRICT 2",
+      "votes_allowed": 1,
+      "column": 1,
+      "choice_boxes": [
+        {
+          "cX": 266,
+          "cY": 3647,
+          "candidate": "JARED HUFFMAN"
+        },
+        {
+          "cX": 266,
+          "cY": 3816,
+          "candidate": "DALE K. MENSING"
+        }
+      ]
+    },
+    {
+      "contest_name": "STATE ASSEMBLY DISTRICT 2",
+      "votes_allowed": 1,
+      "column": 2,
+      "choice_boxes": [
+        {
+          "cX": 1353,
+          "cY": 747,
+          "candidate": "CHARLOTTE SVOLOS"
+        },
+        {
+          "cX": 1353,
+          "cY": 916,
+          "candidate": "JIM WOOD"
+        }
+      ]
+    },
+    {
+      "contest_name": "REDWOOD COMMUNITY COLLEGE DISTRICT GOVERNING BOARD MEMBER TRUSTEE AREA 6",
+      "votes_allowed": 1,
+      "column": 2,
+      "choice_boxes": [
+        {
+          "cX": 1353,
+          "cY": 1432,
+          "candidate": "KEOKI BURBANK"
+        },
+        {
+          "cX": 1353,
+          "cY": 1550,
+          "candidate": "COLLEEN BRIDGET MULLERY"
+        },
+        {
+          "cX": 1353,
+          "cY": 1668,
+          "candidate": "(Write In 1)"
+        }
+      ]
+    },
+    {
+      "contest_name": "NORTHERN HUMBOLDT UNION HIGH SCHOOL DISTRICT GOVERNING BOARD MEMBER",
+      "votes_allowed": 2,
+      "column": 2,
+      "choice_boxes": [
+        {
+          "cX": 1353,
+          "cY": 2080,
+          "candidate": "CEDRIC K. AARON, JR"
+        },
+        {
+          "cX": 1353,
+          "cY": 2199,
+          "candidate": "ARISTEA SAULSBURY"
+        },
+        {
+          "cX": 1353,
+          "cY": 2317,
+          "candidate": "JANELLE JONES"
+        },
+        {
+          "cX": 1353,
+          "cY": 2436,
+          "candidate": "(Write In 1)"
+        },
+        {
+          "cX": 1353,
+          "cY": 2588,
+          "candidate": "(Write In 2)"
+        }
+      ]
+    },
+    {
+      "contest_name": "MCKINLEYVILLE UNION SCHOOL DISTRICT GOVERNING BOARD MEMBER",
+      "votes_allowed": 2,
+      "column": 2,
+      "choice_boxes": [
+        {
+          "cX": 1353,
+          "cY": 3001,
+          "candidate": "RACHELLE HICKS"
+        },
+        {
+          "cX": 1353,
+          "cY": 3118,
+          "candidate": "NICHOLAS SOM"
+        },
+        {
+          "cX": 1353,
+          "cY": 3236,
+          "candidate": "MANUEL FONSECA"
+        },
+        {
+          "cX": 1353,
+          "cY": 3355,
+          "candidate": "CHELSEY RIOS"
+        },
+        {
+          "cX": 1353,
+          "cY": 3473,
+          "candidate": "(Write In 1)"
+        },
+        {
+          "cX": 1353,
+          "cY": 3626,
+          "candidate": "(Write In 2)"
+        }
+      ]
+    }
+  ]
+}

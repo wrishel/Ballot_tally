@@ -1,0 +1,141 @@
+{
+  "precinct": "3MA-1",
+  "page": 3,
+  "ul_barcode": "",
+  "ll_barcode": "",
+  "scan_date": "2Jan2020",
+  "operator": "McCallie",
+  "M_matrix": [
+    [
+      0.9999887166502327,
+      0.004750428635458512,
+      9.079551834780972
+    ],
+    [
+      -0.004750428635458512,
+      0.9999887166502327,
+      5.066240258814556
+    ]
+  ],
+  "contests": [
+    {
+      "contest_name": "Proposition 21",
+      "votes_allowed": 1,
+      "column": 1,
+      "choice_boxes": [
+        {
+          "cX": 266,
+          "cY": 1122,
+          "candidate": "Yes"
+        },
+        {
+          "cX": 266,
+          "cY": 1222,
+          "candidate": "No"
+        }
+      ]
+    },
+    {
+      "contest_name": "Proposition 22",
+      "votes_allowed": 1,
+      "column": 1,
+      "choice_boxes": [
+        {
+          "cX": 266,
+          "cY": 1934,
+          "candidate": "Yes"
+        },
+        {
+          "cX": 267,
+          "cY": 2034,
+          "candidate": "No"
+        }
+      ]
+    },
+    {
+      "contest_name": "Proposition 23",
+      "votes_allowed": 1,
+      "column": 1,
+      "choice_boxes": [
+        {
+          "cX": 266,
+          "cY": 2803,
+          "candidate": "Yes"
+        },
+        {
+          "cX": 267,
+          "cY": 2903,
+          "candidate": "No"
+        }
+      ]
+    },
+    {
+      "contest_name": "Proposition 24",
+      "votes_allowed": 1,
+      "column": 1,
+      "choice_boxes": [
+        {
+          "cX": 266,
+          "cY": 3785,
+          "candidate": "Yes"
+        },
+        {
+          "cX": 266,
+          "cY": 3885,
+          "candidate": "No"
+        }
+      ]
+    },
+    {
+      "contest_name": "Proposition 25",
+      "votes_allowed": 1,
+      "column": 2,
+      "choice_boxes": [
+        {
+          "cX": 1354,
+          "cY": 1066,
+          "candidate": "Yes"
+        },
+        {
+          "cX": 1354,
+          "cY": 1166,
+          "candidate": "No"
+        }
+      ]
+    },
+    {
+      "contest_name": "Measure I County of Humboldt, Unincorporated Area",
+      "votes_allowed": 1,
+      "column": 2,
+      "choice_boxes": [
+        {
+          "cX": 1355,
+          "cY": 1974,
+          "candidate": "Yes"
+        },
+        {
+          "cX": 1354,
+          "cY": 2075,
+          "candidate": "No"
+        }
+      ]
+    },
+    {
+      "contest_name": "Measure F Arcata Fire Protection District, Special Tax",
+      "votes_allowed": 1,
+      "column": 2,
+      "choice_boxes": [
+        {
+          "cX": 1354,
+          "cY": 2992,
+          "candidate": "Yes"
+        },
+        {
+          "cX": 1354,
+          "cY": 3091,
+          "candidate": "No"
+        }
+      ]
+    }
+  ]
+}

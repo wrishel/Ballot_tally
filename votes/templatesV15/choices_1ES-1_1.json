@@ -1,0 +1,150 @@
+{
+  "precinct": "1ES-1",
+  "page": 1,
+  "ul_barcode": "",
+  "ll_barcode": "",
+  "scan_date": "2Jan2020",
+  "operator": "McCallie",
+  "M_matrix": [
+    [
+      0.9999613443381175,
+      0.008792600838487544,
+      -54.70296570910456
+    ],
+    [
+      -0.008792600838487544,
+      0.9999613443381175,
+      12.265365156509505
+    ]
+  ],
+  "contests": [
+    {
+      "contest_name": "PRESIDENT AND VICE PRESIDENT",
+      "votes_allowed": 1,
+      "column": 1,
+      "choice_boxes": [
+        {
+          "cX": 265,
+          "cY": 1372,
+          "candidate": "DONALD J. TRUMP and MICHAEL R. PENCE"
+        },
+        {
+          "cX": 265,
+          "cY": 1543,
+          "candidate": "GLORIA LA RIVA and SUNIL FREEMAN"
+        },
+        {
+          "cX": 265,
+          "cY": 1715,
+          "candidate": "ROQUE \"ROCKY\" DE LA FUENTE GUERRA and KANYE OMARI WEST"
+        },
+        {
+          "cX": 265,
+          "cY": 1885,
+          "candidate": "HOWIE HAWKINS and ANGELA NICOLE WALKER"
+        },
+        {
+          "cX": 265,
+          "cY": 2057,
+          "candidate": "JO JORGENSEN and JEREMY \"SPIKE\" COHEN"
+        },
+        {
+          "cX": 265,
+          "cY": 2229,
+          "candidate": "JOSEPH R. BIDEN and KAMALA D. HARRIS"
+        },
+        {
+          "cX": 265,
+          "cY": 2401,
+          "candidate": "(Write In 1)"
+        }
+      ]
+    },
+    {
+      "contest_name": "US REPRESENTATIVE DISTRICT 2",
+      "votes_allowed": 1,
+      "column": 1,
+      "choice_boxes": [
+        {
+          "cX": 265,
+          "cY": 3650,
+          "candidate": "JARED HUFFMAN"
+        },
+        {
+          "cX": 265,
+          "cY": 3818,
+          "candidate": "DALE K. MENSING"
+        }
+      ]
+    },
+    {
+      "contest_name": "STATE ASSEMBLY DISTRICT 2",
+      "votes_allowed": 1,
+      "column": 2,
+      "choice_boxes": [
+        {
+          "cX": 1350,
+          "cY": 753,
+          "candidate": "CHARLOTTE SVOLOS"
+        },
+        {
+          "cX": 1349,
+          "cY": 921,
+          "candidate": "JIM WOOD"
+        }
+      ]
+    },
+    {
+      "contest_name": "HUMBOLDT COMMUNITY SERVICES DISTRICT DIRECTOR",
+      "votes_allowed": 3,
+      "column": 2,
+      "choice_boxes": [
+        {
+          "cX": 1349,
+          "cY": 1436,
+          "candidate": "HEIDI BENZONELLI"
+        },
+        {
+          "cX": 1349,
+          "cY": 1554,
+          "candidate": "MICHAEL P. HANSEN"
+        },
+        {
+          "cX": 1349,
+          "cY": 1673,
+          "candidate": "DAVID HAYNIE"
+        },
+        {
+          "cX": 1349,
+          "cY": 1790,
+          "candidate": "DAVID SAUNDERSON"
+        },
+        {
+          "cX": 1349,
+          "cY": 1909,
+          "candidate": "JOSH SEHON"
+        },
+        {
+          "cX": 1349,
+          "cY": 2028,
+          "candidate": "JOE MATTEOLI"
+        },
+        {
+          "cX": 1349,
+          "cY": 2147,
+          "candidate": "(Write In 1)"
+        },
+        {
+          "cX": 1349,
+          "cY": 2299,
+          "candidate": "(Write In 2)"
+        },
+        {
+          "cX": 1349,
+          "cY": 2452,
+          "candidate": "(Write In 3)"
+        }
+      ]
+    }
+  ]
+}

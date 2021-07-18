@@ -1,0 +1,179 @@
+{
+  "precinct": "2SH-1",
+  "page": 1,
+  "ul_barcode": "",
+  "ll_barcode": "",
+  "scan_date": "2Jan2020",
+  "operator": "McCallie",
+  "M_matrix": [
+    [
+      0.9999824866770661,
+      0.005918305429035208,
+      -53.99519948838174
+    ],
+    [
+      -0.005918305429035208,
+      0.9999824866770661,
+      -4.435137516106087
+    ]
+  ],
+  "contests": [
+    {
+      "contest_name": "PRESIDENT AND VICE PRESIDENT",
+      "votes_allowed": 1,
+      "column": 1,
+      "choice_boxes": [
+        {
+          "cX": 265,
+          "cY": 1366,
+          "candidate": "DONALD J. TRUMP and MICHAEL R. PENCE"
+        },
+        {
+          "cX": 265,
+          "cY": 1537,
+          "candidate": "GLORIA LA RIVA and SUNIL FREEMAN"
+        },
+        {
+          "cX": 265,
+          "cY": 1708,
+          "candidate": "ROQUE \"ROCKY\" DE LA FUENTE GUERRA and KANYE OMARI WEST"
+        },
+        {
+          "cX": 265,
+          "cY": 1879,
+          "candidate": "HOWIE HAWKINS and ANGELA NICOLE WALKER"
+        },
+        {
+          "cX": 265,
+          "cY": 2051,
+          "candidate": "JO JORGENSEN and JEREMY \"SPIKE\" COHEN"
+        },
+        {
+          "cX": 265,
+          "cY": 2221,
+          "candidate": "JOSEPH R. BIDEN and KAMALA D. HARRIS"
+        },
+        {
+          "cX": 265,
+          "cY": 2393,
+          "candidate": "(Write In 1)"
+        }
+      ]
+    },
+    {
+      "contest_name": "US REPRESENTATIVE DISTRICT 2",
+      "votes_allowed": 1,
+      "column": 1,
+      "choice_boxes": [
+        {
+          "cX": 266,
+          "cY": 3640,
+          "candidate": "JARED HUFFMAN"
+        },
+        {
+          "cX": 266,
+          "cY": 3807,
+          "candidate": "DALE K. MENSING"
+        }
+      ]
+    },
+    {
+      "contest_name": "STATE ASSEMBLY DISTRICT 2",
+      "votes_allowed": 1,
+      "column": 2,
+      "choice_boxes": [
+        {
+          "cX": 1348,
+          "cY": 748,
+          "candidate": "CHARLOTTE SVOLOS"
+        },
+        {
+          "cX": 1348,
+          "cY": 915,
+          "candidate": "JIM WOOD"
+        }
+      ]
+    },
+    {
+      "contest_name": "REDWOOD COMMUNITY COLLEGE DISTRICT GOVERNING BOARD MEMBER TRUSTEE AREA 7",
+      "votes_allowed": 1,
+      "column": 2,
+      "choice_boxes": [
+        {
+          "cX": 1348,
+          "cY": 1430,
+          "candidate": "SALLY BIGGIN"
+        },
+        {
+          "cX": 1348,
+          "cY": 1548,
+          "candidate": "STEPHEN A. BURBANK"
+        },
+        {
+          "cX": 1348,
+          "cY": 1666,
+          "candidate": "(Write In 1)"
+        }
+      ]
+    },
+    {
+      "contest_name": "SOUTHERN HUMBOLDT JOINT UNIFIED SCHOOL DISTRICT GOVERNING BOARD MEMBER",
+      "votes_allowed": 2,
+      "column": 2,
+      "choice_boxes": [
+        {
+          "cX": 1349,
+          "cY": 2077,
+          "candidate": "CINNAMON O'NEILL-PAULA"
+        },
+        {
+          "cX": 1349,
+          "cY": 2195,
+          "candidate": "CHRISTINE MARIE DOYKA"
+        },
+        {
+          "cX": 1349,
+          "cY": 2313,
+          "candidate": "NICOLE KEENAN"
+        },
+        {
+          "cX": 1349,
+          "cY": 2431,
+          "candidate": "JESSICA K. WILLIS"
+        },
+        {
+          "cX": 1349,
+          "cY": 2549,
+          "candidate": "(Write In 1)"
+        },
+        {
+          "cX": 1349,
+          "cY": 2702,
+          "candidate": "(Write In 2)"
+        }
+      ]
+    },
+    {
+      "contest_name": "SUPERVISOR DISTRICT 2",
+      "votes_allowed": 1,
+      "column": 2,
+      "choice_boxes": [
+        {
+          "cX": 1349,
+          "cY": 3146,
+          "candidate": "MICHELLE L. BUSHNELL"
+        },
+        {
+          "cX": 1349,
+          "cY": 3264,
+          "candidate": "ESTELLE FENNELL"
+        },
+        {
+          "cX": 1349,
+          "cY": 3383,
+          "candidate": "(Write In 1)"
+        }
+      ]
+    }
+  ]
+}

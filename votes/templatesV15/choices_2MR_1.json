@@ -1,0 +1,142 @@
+{
+  "precinct": "2MR",
+  "page": 1,
+  "ul_barcode": "",
+  "ll_barcode": "",
+  "scan_date": "2Jan2020",
+  "operator": "McCallie",
+  "M_matrix": [
+    [
+      0.9999745894296246,
+      0.007128849490194982,
+      -17.69168728203646
+    ],
+    [
+      -0.007128849490194982,
+      0.9999745894296246,
+      4.121258749316393
+    ]
+  ],
+  "contests": [
+    {
+      "contest_name": "PRESIDENT AND VICE PRESIDENT",
+      "votes_allowed": 1,
+      "column": 1,
+      "choice_boxes": [
+        {
+          "cX": 265,
+          "cY": 1370,
+          "candidate": "DONALD J. TRUMP and MICHAEL R. PENCE"
+        },
+        {
+          "cX": 265,
+          "cY": 1541,
+          "candidate": "GLORIA LA RIVA and SUNIL FREEMAN"
+        },
+        {
+          "cX": 266,
+          "cY": 1712,
+          "candidate": "ROQUE \"ROCKY\" DE LA FUENTE GUERRA and KANYE OMARI WEST"
+        },
+        {
+          "cX": 266,
+          "cY": 1882,
+          "candidate": "HOWIE HAWKINS and ANGELA NICOLE WALKER"
+        },
+        {
+          "cX": 266,
+          "cY": 2054,
+          "candidate": "JO JORGENSEN and JEREMY \"SPIKE\" COHEN"
+        },
+        {
+          "cX": 265,
+          "cY": 2226,
+          "candidate": "JOSEPH R. BIDEN and KAMALA D. HARRIS"
+        },
+        {
+          "cX": 265,
+          "cY": 2398,
+          "candidate": "(Write In 1)"
+        }
+      ]
+    },
+    {
+      "contest_name": "US REPRESENTATIVE DISTRICT 2",
+      "votes_allowed": 1,
+      "column": 1,
+      "choice_boxes": [
+        {
+          "cX": 265,
+          "cY": 3646,
+          "candidate": "JARED HUFFMAN"
+        },
+        {
+          "cX": 265,
+          "cY": 3815,
+          "candidate": "DALE K. MENSING"
+        }
+      ]
+    },
+    {
+      "contest_name": "STATE ASSEMBLY DISTRICT 2",
+      "votes_allowed": 1,
+      "column": 2,
+      "choice_boxes": [
+        {
+          "cX": 1349,
+          "cY": 750,
+          "candidate": "CHARLOTTE SVOLOS"
+        },
+        {
+          "cX": 1348,
+          "cY": 919,
+          "candidate": "JIM WOOD"
+        }
+      ]
+    },
+    {
+      "contest_name": "SHASTA TEHAMA TRINITY COLLEGE GOVERNING BOARD MEMBER TRUSTEE AREA E",
+      "votes_allowed": 1,
+      "column": 2,
+      "choice_boxes": [
+        {
+          "cX": 1348,
+          "cY": 1434,
+          "candidate": "RAYOLA B. PRATT"
+        },
+        {
+          "cX": 1348,
+          "cY": 1508,
+          "candidate": "STEPHEN BELL"
+        },
+        {
+          "cX": 1349,
+          "cY": 1627,
+          "candidate": "(Write In 1)"
+        }
+      ]
+    },
+    {
+      "contest_name": "SUPERVISOR DISTRICT 2",
+      "votes_allowed": 1,
+      "column": 2,
+      "choice_boxes": [
+        {
+          "cX": 1349,
+          "cY": 2072,
+          "candidate": "MICHELLE L. BUSHNELL"
+        },
+        {
+          "cX": 1348,
+          "cY": 2190,
+          "candidate": "ESTELLE FENNELL"
+        },
+        {
+          "cX": 1348,
+          "cY": 2309,
+          "candidate": "(Write In 1)"
+        }
+      ]
+    }
+  ]
+}

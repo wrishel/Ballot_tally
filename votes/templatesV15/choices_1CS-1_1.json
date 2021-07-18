@@ -1,0 +1,182 @@
+{
+  "precinct": "1CS-1",
+  "page": 1,
+  "ul_barcode": "",
+  "ll_barcode": "",
+  "scan_date": "2Jan2020",
+  "operator": "McCallie",
+  "M_matrix": [
+    [
+      0.999996361953987,
+      -0.002697420766331442,
+      19.956885154019876
+    ],
+    [
+      0.002697420766331442,
+      0.999996361953987,
+      -23.423479318146295
+    ]
+  ],
+  "contests": [
+    {
+      "contest_name": "PRESIDENT AND VICE PRESIDENT",
+      "votes_allowed": 1,
+      "column": 1,
+      "choice_boxes": [
+        {
+          "cX": 267,
+          "cY": 1358,
+          "candidate": "DONALD J. TRUMP and MICHAEL R. PENCE"
+        },
+        {
+          "cX": 267,
+          "cY": 1530,
+          "candidate": "GLORIA LA RIVA and SUNIL FREEMAN"
+        },
+        {
+          "cX": 267,
+          "cY": 1702,
+          "candidate": "ROQUE \"ROCKY\" DE LA FUENTE GUERRA and KANYE OMARI WEST"
+        },
+        {
+          "cX": 267,
+          "cY": 1872,
+          "candidate": "HOWIE HAWKINS and ANGELA NICOLE WALKER"
+        },
+        {
+          "cX": 267,
+          "cY": 2043,
+          "candidate": "JO JORGENSEN and JEREMY \"SPIKE\" COHEN"
+        },
+        {
+          "cX": 267,
+          "cY": 2214,
+          "candidate": "JOSEPH R. BIDEN and KAMALA D. HARRIS"
+        },
+        {
+          "cX": 266,
+          "cY": 2386,
+          "candidate": "(Write In 1)"
+        }
+      ]
+    },
+    {
+      "contest_name": "US REPRESENTATIVE DISTRICT 2",
+      "votes_allowed": 1,
+      "column": 1,
+      "choice_boxes": [
+        {
+          "cX": 266,
+          "cY": 3636,
+          "candidate": "JARED HUFFMAN"
+        },
+        {
+          "cX": 267,
+          "cY": 3804,
+          "candidate": "DALE K. MENSING"
+        }
+      ]
+    },
+    {
+      "contest_name": "STATE ASSEMBLY DISTRICT 2",
+      "votes_allowed": 1,
+      "column": 2,
+      "choice_boxes": [
+        {
+          "cX": 1354,
+          "cY": 734,
+          "candidate": "CHARLOTTE SVOLOS"
+        },
+        {
+          "cX": 1353,
+          "cY": 904,
+          "candidate": "JIM WOOD"
+        }
+      ]
+    },
+    {
+      "contest_name": "CUTTEN ELEMENTARY SCHOOL DISTRICT GOVERNING BOARD MEMBER",
+      "votes_allowed": 2,
+      "column": 2,
+      "choice_boxes": [
+        {
+          "cX": 1354,
+          "cY": 1418,
+          "candidate": "KAREN BAZZANO"
+        },
+        {
+          "cX": 1353,
+          "cY": 1537,
+          "candidate": "REBECCA REECE"
+        },
+        {
+          "cX": 1353,
+          "cY": 1656,
+          "candidate": "BETH JOHNSTON"
+        },
+        {
+          "cX": 1354,
+          "cY": 1774,
+          "candidate": "(Write In 1)"
+        },
+        {
+          "cX": 1354,
+          "cY": 1926,
+          "candidate": "(Write In 2)"
+        }
+      ]
+    },
+    {
+      "contest_name": "HUMBOLDT COMMUNITY SERVICES DISTRICT DIRECTOR",
+      "votes_allowed": 3,
+      "column": 2,
+      "choice_boxes": [
+        {
+          "cX": 1353,
+          "cY": 2424,
+          "candidate": "HEIDI BENZONELLI"
+        },
+        {
+          "cX": 1354,
+          "cY": 2543,
+          "candidate": "MICHAEL P. HANSEN"
+        },
+        {
+          "cX": 1354,
+          "cY": 2661,
+          "candidate": "DAVID HAYNIE"
+        },
+        {
+          "cX": 1353,
+          "cY": 2780,
+          "candidate": "DAVID SAUNDERSON"
+        },
+        {
+          "cX": 1353,
+          "cY": 2899,
+          "candidate": "JOSH SEHON"
+        },
+        {
+          "cX": 1353,
+          "cY": 3017,
+          "candidate": "JOE MATTEOLI"
+        },
+        {
+          "cX": 1353,
+          "cY": 3135,
+          "candidate": "(Write In 1)"
+        },
+        {
+          "cX": 1353,
+          "cY": 3288,
+          "candidate": "(Write In 2)"
+        },
+        {
+          "cX": 1353,
+          "cY": 3440,
+          "candidate": "(Write In 3)"
+        }
+      ]
+    }
+  ]
+}

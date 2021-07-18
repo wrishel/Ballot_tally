@@ -1,0 +1,1 @@
+select max(image_number) from images where barcode is null

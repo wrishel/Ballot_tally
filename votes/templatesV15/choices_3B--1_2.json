@@ -1,0 +1,64 @@
+{
+  "precinct": "3B--1",
+  "page": 2,
+  "ul_barcode": "",
+  "ll_barcode": "",
+  "scan_date": "2Jan2020",
+  "operator": "McCallie",
+  "M_matrix": [
+    [
+      0.9999961154597826,
+      -0.0027873043151182336,
+      -2.155422195673327
+    ],
+    [
+      0.0027873043151182336,
+      0.9999961154597826,
+      -18.537293554373896
+    ]
+  ],
+  "contests": [
+    {
+      "contest_name": "BLUE LAKE CITY COUNCILMEMBER",
+      "votes_allowed": 3,
+      "column": 1,
+      "choice_boxes": [
+        {
+          "cX": 266,
+          "cY": 738,
+          "candidate": "OLIVIA OBIDAH"
+        },
+        {
+          "cX": 266,
+          "cY": 857,
+          "candidate": "SUMMER DAUGHERTY"
+        },
+        {
+          "cX": 266,
+          "cY": 976,
+          "candidate": "JASON ROBO"
+        },
+        {
+          "cX": 266,
+          "cY": 1094,
+          "candidate": "ADELENE L. JONES"
+        },
+        {
+          "cX": 266,
+          "cY": 1213,
+          "candidate": "(Write In 1)"
+        },
+        {
+          "cX": 266,
+          "cY": 1365,
+          "candidate": "(Write In 2)"
+        },
+        {
+          "cX": 267,
+          "cY": 1518,
+          "candidate": "(Write In 3)"
+        }
+      ]
+    }
+  ]
+}

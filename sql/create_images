@@ -1,0 +1,10 @@
+CREATE TABLE `images` (
+  `image_number` mediumint NOT NULL,
+  `precinct` varchar(7) DEFAULT NULL,
+  `page_number` varchar(3) DEFAULT NULL,
+  `elections_batch_num` varchar(6) DEFAULT NULL,
+  `ETP_batch_num` varchar(6) DEFAULT NULL,
+  `assigned_to_pid` mediumint DEFAULT NULL,
+  `barcode` varchar(14) DEFAULT NULL,
+  PRIMARY KEY (`image_number`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;

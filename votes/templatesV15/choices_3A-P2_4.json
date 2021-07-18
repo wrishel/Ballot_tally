@@ -1,0 +1,90 @@
+{
+  "precinct": "3A-P2",
+  "page": 4,
+  "ul_barcode": "",
+  "ll_barcode": "",
+  "scan_date": "2Jan2020",
+  "operator": "McCallie",
+  "M_matrix": [
+    [
+      0.9999635894534454,
+      0.008533449910869198,
+      -43.92872490913135
+    ],
+    [
+      -0.008533449910869198,
+      0.9999635894534454,
+      21.93101043439021
+    ]
+  ],
+  "contests": [
+    {
+      "contest_name": "Proposition 25",
+      "votes_allowed": 1,
+      "column": 1,
+      "choice_boxes": [
+        {
+          "cX": 265,
+          "cY": 1068,
+          "candidate": "Yes"
+        },
+        {
+          "cX": 265,
+          "cY": 1168,
+          "candidate": "No"
+        }
+      ]
+    },
+    {
+      "contest_name": "Measure A City Of Arcata, Special Tax",
+      "votes_allowed": 1,
+      "column": 1,
+      "choice_boxes": [
+        {
+          "cX": 265,
+          "cY": 2199,
+          "candidate": "Yes"
+        },
+        {
+          "cX": 265,
+          "cY": 2298,
+          "candidate": "No"
+        }
+      ]
+    },
+    {
+      "contest_name": "Measure B City Of Arcata, Ordinance",
+      "votes_allowed": 1,
+      "column": 1,
+      "choice_boxes": [
+        {
+          "cX": 265,
+          "cY": 3129,
+          "candidate": "Yes"
+        },
+        {
+          "cX": 264,
+          "cY": 3230,
+          "candidate": "No"
+        }
+      ]
+    },
+    {
+      "contest_name": "Measure F Arcata Fire Protection District, Special Tax",
+      "votes_allowed": 1,
+      "column": 2,
+      "choice_boxes": [
+        {
+          "cX": 1344,
+          "cY": 1359,
+          "candidate": "Yes"
+        },
+        {
+          "cX": 1344,
+          "cY": 1459,
+          "candidate": "No"
+        }
+      ]
+    }
+  ]
+}

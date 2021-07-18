@@ -1,0 +1,145 @@
+{
+  "precinct": "3A--2",
+  "page": 2,
+  "ul_barcode": "",
+  "ll_barcode": "",
+  "scan_date": "2Jan2020",
+  "operator": "McCallie",
+  "M_matrix": [
+    [
+      0.9999963677397009,
+      0.0026952750147183828,
+      -24.69654921475347
+    ],
+    [
+      -0.0026952750147183828,
+      0.9999963677397009,
+      -4.563982434650125
+    ]
+  ],
+  "contests": [
+    {
+      "contest_name": "Proposition 14",
+      "votes_allowed": 1,
+      "column": 1,
+      "choice_boxes": [
+        {
+          "cX": 1345,
+          "cY": 1297,
+          "candidate": "Bonds Yes"
+        },
+        {
+          "cX": 1345,
+          "cY": 1397,
+          "candidate": "Bonds No"
+        }
+      ]
+    },
+    {
+      "contest_name": "Proposition 15",
+      "votes_allowed": 1,
+      "column": 1,
+      "choice_boxes": [
+        {
+          "cX": 1345,
+          "cY": 2151,
+          "candidate": "Yes"
+        },
+        {
+          "cX": 1345,
+          "cY": 2251,
+          "candidate": "No"
+        }
+      ]
+    },
+    {
+      "contest_name": "Proposition 16",
+      "votes_allowed": 1,
+      "column": 1,
+      "choice_boxes": [
+        {
+          "cX": 1345,
+          "cY": 3067,
+          "candidate": "Yes"
+        },
+        {
+          "cX": 1345,
+          "cY": 3167,
+          "candidate": "No"
+        }
+      ]
+    },
+    {
+      "contest_name": "ARCATA CITY COUNCILMEMBER",
+      "votes_allowed": 3,
+      "column": 2,
+      "choice_boxes": [
+        {
+          "cX": 265,
+          "cY": 743,
+          "candidate": "STACY ATKINS-SALAZAR"
+        },
+        {
+          "cX": 265,
+          "cY": 862,
+          "candidate": "CAMILLA ZAPATA"
+        },
+        {
+          "cX": 265,
+          "cY": 980,
+          "candidate": "EMILY GRACE GOLDSTEIN"
+        },
+        {
+          "cX": 265,
+          "cY": 1099,
+          "candidate": "ORYAN PETERSON-JONES"
+        },
+        {
+          "cX": 265,
+          "cY": 1217,
+          "candidate": "PAUL PITINO"
+        },
+        {
+          "cX": 265,
+          "cY": 1336,
+          "candidate": "SARAH SCHAEFER"
+        },
+        {
+          "cX": 265,
+          "cY": 1454,
+          "candidate": "NICK MATTHEWS"
+        },
+        {
+          "cX": 266,
+          "cY": 1572,
+          "candidate": "COLLIN YEO"
+        },
+        {
+          "cX": 265,
+          "cY": 1690,
+          "candidate": "KIMBERLEY WHITE"
+        },
+        {
+          "cX": 265,
+          "cY": 1808,
+          "candidate": "MICHAEL WINKLER"
+        },
+        {
+          "cX": 265,
+          "cY": 1927,
+          "candidate": "(Write In 1)"
+        },
+        {
+          "cX": 265,
+          "cY": 2080,
+          "candidate": "(Write In 2)"
+        },
+        {
+          "cX": 265,
+          "cY": 2233,
+          "candidate": "(Write In 3)"
+        }
+      ]
+    }
+  ]
+}

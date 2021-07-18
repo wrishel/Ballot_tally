@@ -1,0 +1,1 @@
+ grep 'Processed' ballot_tally.log | sed -r 's/#//g' | sed -r 's/,//g' | sed -r 's/Processed //' | sed -r 's/seconds:/\t/' | head

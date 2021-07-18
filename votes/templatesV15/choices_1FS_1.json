@@ -1,0 +1,135 @@
+{
+  "precinct": "1FS",
+  "page": 1,
+  "ul_barcode": "",
+  "ll_barcode": "",
+  "scan_date": "2Jan2020",
+  "operator": "McCallie",
+  "M_matrix": [
+    [
+      0.999978334154366,
+      0.006582645506114073,
+      -48.220648706802464
+    ],
+    [
+      -0.006582645506114073,
+      0.999978334154366,
+      7.4186233596085245
+    ]
+  ],
+  "contests": [
+    {
+      "contest_name": "PRESIDENT AND VICE PRESIDENT",
+      "votes_allowed": 1,
+      "column": 1,
+      "choice_boxes": [
+        {
+          "cX": 265,
+          "cY": 1371,
+          "candidate": "DONALD J. TRUMP and MICHAEL R. PENCE"
+        },
+        {
+          "cX": 265,
+          "cY": 1542,
+          "candidate": "GLORIA LA RIVA and SUNIL FREEMAN"
+        },
+        {
+          "cX": 265,
+          "cY": 1714,
+          "candidate": "ROQUE \"ROCKY\" DE LA FUENTE GUERRA and KANYE OMARI WEST"
+        },
+        {
+          "cX": 265,
+          "cY": 1885,
+          "candidate": "HOWIE HAWKINS and ANGELA NICOLE WALKER"
+        },
+        {
+          "cX": 265,
+          "cY": 2057,
+          "candidate": "JO JORGENSEN and JEREMY \"SPIKE\" COHEN"
+        },
+        {
+          "cX": 266,
+          "cY": 2228,
+          "candidate": "JOSEPH R. BIDEN and KAMALA D. HARRIS"
+        },
+        {
+          "cX": 266,
+          "cY": 2400,
+          "candidate": "(Write In 1)"
+        }
+      ]
+    },
+    {
+      "contest_name": "US REPRESENTATIVE DISTRICT 2",
+      "votes_allowed": 1,
+      "column": 1,
+      "choice_boxes": [
+        {
+          "cX": 266,
+          "cY": 3649,
+          "candidate": "JARED HUFFMAN"
+        },
+        {
+          "cX": 266,
+          "cY": 3819,
+          "candidate": "DALE K. MENSING"
+        }
+      ]
+    },
+    {
+      "contest_name": "STATE ASSEMBLY DISTRICT 2",
+      "votes_allowed": 1,
+      "column": 2,
+      "choice_boxes": [
+        {
+          "cX": 1350,
+          "cY": 751,
+          "candidate": "CHARLOTTE SVOLOS"
+        },
+        {
+          "cX": 1350,
+          "cY": 919,
+          "candidate": "JIM WOOD"
+        }
+      ]
+    },
+    {
+      "contest_name": "FERNDALE UNIFIED SCHOOL DISTRICT GOVERNING BOARD MEMBER",
+      "votes_allowed": 2,
+      "column": 2,
+      "choice_boxes": [
+        {
+          "cX": 1349,
+          "cY": 1435,
+          "candidate": "CLIFFORD A. TITUS"
+        },
+        {
+          "cX": 1349,
+          "cY": 1553,
+          "candidate": "JULIE HAGEMANN"
+        },
+        {
+          "cX": 1349,
+          "cY": 1672,
+          "candidate": "MERIDITH ORAM"
+        },
+        {
+          "cX": 1349,
+          "cY": 1789,
+          "candidate": "MICHAEL WARNER"
+        },
+        {
+          "cX": 1349,
+          "cY": 1908,
+          "candidate": "(Write In 1)"
+        },
+        {
+          "cX": 1349,
+          "cY": 2061,
+          "candidate": "(Write In 2)"
+        }
+      ]
+    }
+  ]
+}

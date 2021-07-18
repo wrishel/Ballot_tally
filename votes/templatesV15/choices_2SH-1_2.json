@@ -1,0 +1,141 @@
+{
+  "precinct": "2SH-1",
+  "page": 2,
+  "ul_barcode": "",
+  "ll_barcode": "",
+  "scan_date": "2Jan2020",
+  "operator": "McCallie",
+  "M_matrix": [
+    [
+      0.9999869154257579,
+      -0.005115562264117337,
+      28.84151580036751
+    ],
+    [
+      0.005115562264117337,
+      0.9999869154257579,
+      -24.479517594048854
+    ]
+  ],
+  "contests": [
+    {
+      "contest_name": "Proposition 17",
+      "votes_allowed": 1,
+      "column": 1,
+      "choice_boxes": [
+        {
+          "cX": 1345,
+          "cY": 1103,
+          "candidate": "Yes"
+        },
+        {
+          "cX": 1345,
+          "cY": 1203,
+          "candidate": "No"
+        }
+      ]
+    },
+    {
+      "contest_name": "Proposition 18",
+      "votes_allowed": 1,
+      "column": 1,
+      "choice_boxes": [
+        {
+          "cX": 1345,
+          "cY": 1896,
+          "candidate": "Yes"
+        },
+        {
+          "cX": 1345,
+          "cY": 1996,
+          "candidate": "No"
+        }
+      ]
+    },
+    {
+      "contest_name": "Proposition 19",
+      "votes_allowed": 1,
+      "column": 1,
+      "choice_boxes": [
+        {
+          "cX": 1346,
+          "cY": 2819,
+          "candidate": "Yes"
+        },
+        {
+          "cX": 1346,
+          "cY": 2918,
+          "candidate": "No"
+        }
+      ]
+    },
+    {
+      "contest_name": "Proposition 20",
+      "votes_allowed": 1,
+      "column": 1,
+      "choice_boxes": [
+        {
+          "cX": 1346,
+          "cY": 3726,
+          "candidate": "Yes"
+        },
+        {
+          "cX": 1346,
+          "cY": 3826,
+          "candidate": "No"
+        }
+      ]
+    },
+    {
+      "contest_name": "Proposition 14",
+      "votes_allowed": 1,
+      "column": 2,
+      "choice_boxes": [
+        {
+          "cX": 265,
+          "cY": 1287,
+          "candidate": "Bonds Yes"
+        },
+        {
+          "cX": 265,
+          "cY": 1386,
+          "candidate": "Bonds No"
+        }
+      ]
+    },
+    {
+      "contest_name": "Proposition 15",
+      "votes_allowed": 1,
+      "column": 2,
+      "choice_boxes": [
+        {
+          "cX": 265,
+          "cY": 2137,
+          "candidate": "Yes"
+        },
+        {
+          "cX": 265,
+          "cY": 2237,
+          "candidate": "No"
+        }
+      ]
+    },
+    {
+      "contest_name": "Proposition 16",
+      "votes_allowed": 1,
+      "column": 2,
+      "choice_boxes": [
+        {
+          "cX": 266,
+          "cY": 3050,
+          "candidate": "Yes"
+        },
+        {
+          "cX": 265,
+          "cY": 3150,
+          "candidate": "No"
+        }
+      ]
+    }
+  ]
+}

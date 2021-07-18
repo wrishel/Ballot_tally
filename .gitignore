@@ -1,0 +1,11 @@
+/%%%DAEMON_SEMAPHORE.%%%
+/.idea/
+/no_longer_used/
+/rpts/*.csv
+/rpts/*.pdf
+/rpts/*.xlsx
+/rpts/*.tsv
+/try/
+/venv/
+/votes/errors/image_log.html
+/votes/results/

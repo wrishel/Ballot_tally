@@ -1,0 +1,71 @@
+{
+  "precinct": "5T--1",
+  "page": 2,
+  "ul_barcode": "",
+  "ll_barcode": "",
+  "scan_date": "2Jan2020",
+  "operator": "McCallie",
+  "M_matrix": [
+    [
+      0.9999580322265307,
+      -0.009161538388539165,
+      51.49809610669538
+    ],
+    [
+      0.009161538388539165,
+      0.9999580322265307,
+      -40.565344505936245
+    ]
+  ],
+  "contests": [
+    {
+      "contest_name": "TRINIDAD CITY COUNCILMEMBER, 2-YR",
+      "votes_allowed": 1,
+      "column": 1,
+      "choice_boxes": [
+        {
+          "cX": 265,
+          "cY": 730,
+          "candidate": "DAVID W. GROVER"
+        },
+        {
+          "cX": 266,
+          "cY": 849,
+          "candidate": "MICHAEL J. MORGAN"
+        },
+        {
+          "cX": 266,
+          "cY": 967,
+          "candidate": "(Write In 1)"
+        }
+      ]
+    },
+    {
+      "contest_name": "TRINIDAD CITY COUNCILMEMBER, 4-YR",
+      "votes_allowed": 2,
+      "column": 1,
+      "choice_boxes": [
+        {
+          "cX": 265,
+          "cY": 1326,
+          "candidate": "STEVEN MARK LADWIG"
+        },
+        {
+          "cX": 267,
+          "cY": 1444,
+          "candidate": "JACK WEST"
+        },
+        {
+          "cX": 266,
+          "cY": 1561,
+          "candidate": "(Write In 1)"
+        },
+        {
+          "cX": 265,
+          "cY": 1714,
+          "candidate": "(Write In 2)"
+        }
+      ]
+    }
+  ]
+}

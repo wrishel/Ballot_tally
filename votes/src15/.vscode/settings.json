@@ -1,0 +1,5 @@
+{
+    "python.pythonPath": "/Users/david/anaconda3/envs/ballot/bin/python",
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true
+}

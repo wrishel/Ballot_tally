@@ -1,0 +1,189 @@
+{
+  "precinct": "1F--1",
+  "page": 1,
+  "ul_barcode": "",
+  "ll_barcode": "",
+  "scan_date": "2Jan2020",
+  "operator": "McCallie",
+  "M_matrix": [
+    [
+      0.9999992634113204,
+      -0.001213744955321546,
+      -71.36799955634461
+    ],
+    [
+      0.001213744955321546,
+      0.9999992634113204,
+      -3.5423367469418334
+    ]
+  ],
+  "contests": [
+    {
+      "contest_name": "PRESIDENT AND VICE PRESIDENT",
+      "votes_allowed": 1,
+      "column": 1,
+      "choice_boxes": [
+        {
+          "cX": 266,
+          "cY": 1361,
+          "candidate": "DONALD J. TRUMP and MICHAEL R. PENCE"
+        },
+        {
+          "cX": 266,
+          "cY": 1533,
+          "candidate": "GLORIA LA RIVA and SUNIL FREEMAN"
+        },
+        {
+          "cX": 266,
+          "cY": 1704,
+          "candidate": "ROQUE \"ROCKY\" DE LA FUENTE GUERRA and KANYE OMARI WEST"
+        },
+        {
+          "cX": 266,
+          "cY": 1876,
+          "candidate": "HOWIE HAWKINS and ANGELA NICOLE WALKER"
+        },
+        {
+          "cX": 266,
+          "cY": 2047,
+          "candidate": "JO JORGENSEN and JEREMY \"SPIKE\" COHEN"
+        },
+        {
+          "cX": 266,
+          "cY": 2218,
+          "candidate": "JOSEPH R. BIDEN and KAMALA D. HARRIS"
+        },
+        {
+          "cX": 266,
+          "cY": 2390,
+          "candidate": "(Write In 1)"
+        }
+      ]
+    },
+    {
+      "contest_name": "US REPRESENTATIVE DISTRICT 2",
+      "votes_allowed": 1,
+      "column": 1,
+      "choice_boxes": [
+        {
+          "cX": 266,
+          "cY": 3641,
+          "candidate": "JARED HUFFMAN"
+        },
+        {
+          "cX": 266,
+          "cY": 3810,
+          "candidate": "DALE K. MENSING"
+        }
+      ]
+    },
+    {
+      "contest_name": "STATE ASSEMBLY DISTRICT 2",
+      "votes_allowed": 1,
+      "column": 2,
+      "choice_boxes": [
+        {
+          "cX": 1350,
+          "cY": 740,
+          "candidate": "CHARLOTTE SVOLOS"
+        },
+        {
+          "cX": 1350,
+          "cY": 909,
+          "candidate": "JIM WOOD"
+        }
+      ]
+    },
+    {
+      "contest_name": "FERNDALE UNIFIED SCHOOL DISTRICT GOVERNING BOARD MEMBER",
+      "votes_allowed": 2,
+      "column": 2,
+      "choice_boxes": [
+        {
+          "cX": 1350,
+          "cY": 1425,
+          "candidate": "CLIFFORD A. TITUS"
+        },
+        {
+          "cX": 1350,
+          "cY": 1543,
+          "candidate": "JULIE HAGEMANN"
+        },
+        {
+          "cX": 1350,
+          "cY": 1662,
+          "candidate": "MERIDITH ORAM"
+        },
+        {
+          "cX": 1350,
+          "cY": 1780,
+          "candidate": "MICHAEL WARNER"
+        },
+        {
+          "cX": 1350,
+          "cY": 1899,
+          "candidate": "(Write In 1)"
+        },
+        {
+          "cX": 1350,
+          "cY": 2051,
+          "candidate": "(Write In 2)"
+        }
+      ]
+    },
+    {
+      "contest_name": "FERNDALE CITY MAYOR",
+      "votes_allowed": 1,
+      "column": 2,
+      "choice_boxes": [
+        {
+          "cX": 1350,
+          "cY": 2498,
+          "candidate": "DON HINDLEY"
+        },
+        {
+          "cX": 1350,
+          "cY": 2617,
+          "candidate": "ROBIN SMITH"
+        },
+        {
+          "cX": 1350,
+          "cY": 2735,
+          "candidate": "(Write In 1)"
+        }
+      ]
+    },
+    {
+      "contest_name": "FERNDALE CITY COUNCILMEMBER",
+      "votes_allowed": 2,
+      "column": 2,
+      "choice_boxes": [
+        {
+          "cX": 1350,
+          "cY": 3094,
+          "candidate": "KATHLEEN BULLARD"
+        },
+        {
+          "cX": 1350,
+          "cY": 3212,
+          "candidate": "LEONARD LUND"
+        },
+        {
+          "cX": 1350,
+          "cY": 3331,
+          "candidate": "PHILLIP OSTLER"
+        },
+        {
+          "cX": 1350,
+          "cY": 3450,
+          "candidate": "(Write In 1)"
+        },
+        {
+          "cX": 1350,
+          "cY": 3602,
+          "candidate": "(Write In 2)"
+        }
+      ]
+    }
+  ]
+}

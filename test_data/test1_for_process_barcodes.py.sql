@@ -1,0 +1,15 @@
+INSERT INTO HETPtesting.Images (image_number, precinct, page_number, elections_batch_num, ETP_batch_num, assigned_to_pid) VALUES (0, NULL, NULL, '31', '5', null);
+INSERT INTO HETPtesting.Images (image_number, precinct, page_number, elections_batch_num, ETP_batch_num, assigned_to_pid) VALUES (1, '2-CS', '2', '31', '5', null);
+INSERT INTO HETPtesting.Images (image_number, precinct, page_number, elections_batch_num, ETP_batch_num, assigned_to_pid) VALUES (2, 'ABCD-1', '3', '31', '5', null);
+INSERT INTO HETPtesting.Images (image_number, precinct, page_number, elections_batch_num, ETP_batch_num, assigned_to_pid) VALUES (3, 'ABCD-1', '4', '31', '5', null);
+INSERT INTO HETPtesting.Images (image_number, precinct, page_number, elections_batch_num, ETP_batch_num, assigned_to_pid) VALUES (4, NULL, NULL, '31', '5', null);
+INSERT INTO HETPtesting.Images (image_number, precinct, page_number, elections_batch_num, ETP_batch_num, assigned_to_pid) VALUES (5, NULL, NULL, '31', '5', null);
+INSERT INTO HETPtesting.Images (image_number, precinct, page_number, elections_batch_num, ETP_batch_num, assigned_to_pid) VALUES (6, NULL, NULL, '31', '5', null);
+INSERT INTO HETPtesting.Images (image_number, precinct, page_number, elections_batch_num, ETP_batch_num, assigned_to_pid) VALUES (7, NULL, NULL, '31', '5', null);
+INSERT INTO HETPtesting.Images (image_number, precinct, page_number, elections_batch_num, ETP_batch_num, assigned_to_pid) VALUES (8, 'ABC', '3', '31', '5', null);
+INSERT INTO HETPtesting.Images (image_number, precinct, page_number, elections_batch_num, ETP_batch_num, assigned_to_pid) VALUES (9, 'ABCD-1', '3', '31', '5', null);
+INSERT INTO HETPtesting.Images (image_number, precinct, page_number, elections_batch_num, ETP_batch_num, assigned_to_pid) VALUES (10, NULL, NULL, '31', '5', null);
+INSERT INTO HETPtesting.Images (image_number, precinct, page_number, elections_batch_num, ETP_batch_num, assigned_to_pid) VALUES (11, NULL, NULL, '31', '5', null);
+INSERT INTO HETPtesting.Images (image_number, precinct, page_number, elections_batch_num, ETP_batch_num, assigned_to_pid) VALUES (12, '1-CS4', '4', '31', '5', null);
+INSERT INTO HETPtesting.Images (image_number, precinct, page_number, elections_batch_num, ETP_batch_num, assigned_to_pid) VALUES (13, 'ABCD-1', '1', '31', '5', null);
+INSERT INTO HETPtesting.Images (image_number, precinct, page_number, elections_batch_num, ETP_batch_num, assigned_to_pid) VALUES (14, NULL, NULL, '31', '5', null);

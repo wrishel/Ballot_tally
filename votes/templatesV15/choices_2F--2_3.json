@@ -1,0 +1,124 @@
+{
+  "precinct": "2F--2",
+  "page": 3,
+  "ul_barcode": "",
+  "ll_barcode": "",
+  "scan_date": "2Jan2020",
+  "operator": "McCallie",
+  "M_matrix": [
+    [
+      0.9999958988710821,
+      -0.002863955484373508,
+      6.0743174646913864
+    ],
+    [
+      0.002863955484373508,
+      0.9999958988710821,
+      -14.63433900539549
+    ]
+  ],
+  "contests": [
+    {
+      "contest_name": "Proposition 21",
+      "votes_allowed": 1,
+      "column": 1,
+      "choice_boxes": [
+        {
+          "cX": 266,
+          "cY": 1113,
+          "candidate": "Yes"
+        },
+        {
+          "cX": 266,
+          "cY": 1212,
+          "candidate": "No"
+        }
+      ]
+    },
+    {
+      "contest_name": "Proposition 22",
+      "votes_allowed": 1,
+      "column": 1,
+      "choice_boxes": [
+        {
+          "cX": 266,
+          "cY": 1920,
+          "candidate": "Yes"
+        },
+        {
+          "cX": 266,
+          "cY": 2019,
+          "candidate": "No"
+        }
+      ]
+    },
+    {
+      "contest_name": "Proposition 23",
+      "votes_allowed": 1,
+      "column": 1,
+      "choice_boxes": [
+        {
+          "cX": 266,
+          "cY": 2787,
+          "candidate": "Yes"
+        },
+        {
+          "cX": 266,
+          "cY": 2888,
+          "candidate": "No"
+        }
+      ]
+    },
+    {
+      "contest_name": "Proposition 24",
+      "votes_allowed": 1,
+      "column": 1,
+      "choice_boxes": [
+        {
+          "cX": 267,
+          "cY": 3767,
+          "candidate": "Yes"
+        },
+        {
+          "cX": 266,
+          "cY": 3867,
+          "candidate": "No"
+        }
+      ]
+    },
+    {
+      "contest_name": "Proposition 25",
+      "votes_allowed": 1,
+      "column": 2,
+      "choice_boxes": [
+        {
+          "cX": 1355,
+          "cY": 1057,
+          "candidate": "Yes"
+        },
+        {
+          "cX": 1355,
+          "cY": 1157,
+          "candidate": "No"
+        }
+      ]
+    },
+    {
+      "contest_name": "Measure G City Of Fortuna, Extension of Current Essential Services Funding Measure",
+      "votes_allowed": 1,
+      "column": 2,
+      "choice_boxes": [
+        {
+          "cX": 1354,
+          "cY": 2126,
+          "candidate": "Yes"
+        },
+        {
+          "cX": 1355,
+          "cY": 2226,
+          "candidate": "No"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,184 @@
+{
+  "precinct": "2F--2",
+  "page": 1,
+  "ul_barcode": "",
+  "ll_barcode": "",
+  "scan_date": "2Jan2020",
+  "operator": "McCallie",
+  "M_matrix": [
+    [
+      0.9999998625868666,
+      -0.0005242387319480044,
+      15.265459061166842
+    ],
+    [
+      0.0005242387319480044,
+      0.9999998625868666,
+      -5.666543099457664
+    ]
+  ],
+  "contests": [
+    {
+      "contest_name": "PRESIDENT AND VICE PRESIDENT",
+      "votes_allowed": 1,
+      "column": 1,
+      "choice_boxes": [
+        {
+          "cX": 267,
+          "cY": 1363,
+          "candidate": "DONALD J. TRUMP and MICHAEL R. PENCE"
+        },
+        {
+          "cX": 267,
+          "cY": 1535,
+          "candidate": "GLORIA LA RIVA and SUNIL FREEMAN"
+        },
+        {
+          "cX": 267,
+          "cY": 1707,
+          "candidate": "ROQUE \"ROCKY\" DE LA FUENTE GUERRA and KANYE OMARI WEST"
+        },
+        {
+          "cX": 266,
+          "cY": 1878,
+          "candidate": "HOWIE HAWKINS and ANGELA NICOLE WALKER"
+        },
+        {
+          "cX": 266,
+          "cY": 2050,
+          "candidate": "JO JORGENSEN and JEREMY \"SPIKE\" COHEN"
+        },
+        {
+          "cX": 266,
+          "cY": 2222,
+          "candidate": "JOSEPH R. BIDEN and KAMALA D. HARRIS"
+        },
+        {
+          "cX": 266,
+          "cY": 2394,
+          "candidate": "(Write In 1)"
+        }
+      ]
+    },
+    {
+      "contest_name": "US REPRESENTATIVE DISTRICT 2",
+      "votes_allowed": 1,
+      "column": 1,
+      "choice_boxes": [
+        {
+          "cX": 266,
+          "cY": 3647,
+          "candidate": "JARED HUFFMAN"
+        },
+        {
+          "cX": 266,
+          "cY": 3815,
+          "candidate": "DALE K. MENSING"
+        }
+      ]
+    },
+    {
+      "contest_name": "STATE ASSEMBLY DISTRICT 2",
+      "votes_allowed": 1,
+      "column": 2,
+      "choice_boxes": [
+        {
+          "cX": 1355,
+          "cY": 741,
+          "candidate": "CHARLOTTE SVOLOS"
+        },
+        {
+          "cX": 1355,
+          "cY": 909,
+          "candidate": "JIM WOOD"
+        }
+      ]
+    },
+    {
+      "contest_name": "FORTUNA UNION HIGH SCHOOL DISTRICT GOVERNING BOARD MEMBER",
+      "votes_allowed": 2,
+      "column": 2,
+      "choice_boxes": [
+        {
+          "cX": 1355,
+          "cY": 1426,
+          "candidate": "CHARLES R. ELLEBRECHT"
+        },
+        {
+          "cX": 1355,
+          "cY": 1545,
+          "candidate": "KENDRA GUIMARAES"
+        },
+        {
+          "cX": 1355,
+          "cY": 1664,
+          "candidate": "JEANA MCCLENDON"
+        },
+        {
+          "cX": 1355,
+          "cY": 1782,
+          "candidate": "(Write In 1)"
+        },
+        {
+          "cX": 1355,
+          "cY": 1934,
+          "candidate": "(Write In 2)"
+        }
+      ]
+    },
+    {
+      "contest_name": "SUPERVISOR DISTRICT 2",
+      "votes_allowed": 1,
+      "column": 2,
+      "choice_boxes": [
+        {
+          "cX": 1355,
+          "cY": 2382,
+          "candidate": "MICHELLE L. BUSHNELL"
+        },
+        {
+          "cX": 1355,
+          "cY": 2500,
+          "candidate": "ESTELLE FENNELL"
+        },
+        {
+          "cX": 1355,
+          "cY": 2618,
+          "candidate": "(Write In 1)"
+        }
+      ]
+    },
+    {
+      "contest_name": "FORTUNA CITY COUNCILMEMBER",
+      "votes_allowed": 2,
+      "column": 2,
+      "choice_boxes": [
+        {
+          "cX": 1355,
+          "cY": 3066,
+          "candidate": "TAMI TRENT"
+        },
+        {
+          "cX": 1355,
+          "cY": 3184,
+          "candidate": "MIKE LOSEY"
+        },
+        {
+          "cX": 1355,
+          "cY": 3303,
+          "candidate": "DEAN GLASER"
+        },
+        {
+          "cX": 1355,
+          "cY": 3422,
+          "candidate": "(Write In 1)"
+        },
+        {
+          "cX": 1355,
+          "cY": 3575,
+          "candidate": "(Write In 2)"
+        }
+      ]
+    }
+  ]
+}
