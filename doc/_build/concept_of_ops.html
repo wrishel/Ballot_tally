@@ -1,0 +1,171 @@
+
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="generator" content="Docutils 0.17.1: http://docutils.sourceforge.net/" />
+
+    <title>Concept of Operations &#8212; Ballot Tally 0.1 documentation</title>
+    <link rel="stylesheet" type="text/css" href="_static/pygments.css" />
+    <link rel="stylesheet" type="text/css" href="_static/alabaster.css" />
+    <script data-url_root="./" id="documentation_options" src="_static/documentation_options.js"></script>
+    <script src="_static/jquery.js"></script>
+    <script src="_static/underscore.js"></script>
+    <script src="_static/doctools.js"></script>
+    <link rel="index" title="Index" href="genindex.html" />
+    <link rel="search" title="Search" href="search.html" />
+    <link rel="next" title="Installation" href="installation.html" />
+    <link rel="prev" title="ETBV Documentation" href="index.html" />
+   
+  <link rel="stylesheet" href="_static/custom.css" type="text/css" />
+  
+  
+  <meta name="viewport" content="width=device-width, initial-scale=0.9, maximum-scale=0.9" />
+
+  </head><body>
+  
+
+    <div class="document">
+      <div class="documentwrapper">
+        <div class="bodywrapper">
+          
+
+          <div class="body" role="main">
+            
+  <section id="concept-of-operations">
+<h1>Concept of Operations<a class="headerlink" href="#concept-of-operations" title="Permalink to this headline">¶</a></h1>
+<p>This software was created to support the work of the Humboldt Election Transparency Project
+(HETP - <a class="reference external" href="https://electionstransparencyproject.com/">https://electionstransparencyproject.com/</a>),
+an independent non-profit organization in Humboldt County, CA.</p>
+<p>With the cooperation of local elections officials, volunteers of HETP scan ballots that
+have already been counted officially. The scanned images are processed to identify counts by
+precinct and party and the counts are compared to officially posted counts.</p>
+<p>The set of scanned information may be obtained from HETP for local interest or in support
+of academic projects in accordance with its policies.</p>
+<p>The scanned ballot images are further processed to count the votes in the contests and these
+counts are compared to the official counts. Because the process of examining hand-marked ballots
+is inexact and often requires manual examination of ballots to determine the intent of
+a voter, any discrepancies detected are not regarted as refuting the official results. They
+simply indicate an area that might be worthy of a more detailed look.</p>
+<p>An example of the output of our work, along with some detailed explanation of the report are available at our <a class="reference external" href="https://docs.google.com/document/d/1eD4Jp5A9wsKxUWTmF-Jc16pV70OW5ghSRm8IpO1uSiw">Letter to volunteers</a>.</p>
+<section id="major-processing-steps">
+<h2>Major Processing Steps<a class="headerlink" href="#major-processing-steps" title="Permalink to this headline">¶</a></h2>
+<p>The discrete steps in processing an election include Sscanning, Ballot Classification,
+Ballot Templating,
+Ballot Decoding,
+Vote Determination, and
+Analysis. Each is described below.</p>
+<section id="scanning">
+<h3>Scanning<a class="headerlink" href="#scanning" title="Permalink to this headline">¶</a></h3>
+<p>HETP volunteers working on the premises of the elections office receive ballots in batches from elections workers after they have been validated, scanned and accepted by official election counting system. A protocol in place provides a log of custody of the batches and there are always two volunteers working with an elections office person.</p>
+<p>Using an industrial scanner, the volunteers create images, one for each side of each page of a ballot. Currently the images are 300 DPI 8-bit color. Image files are named with sequential numbers, starting with 000000.jpg. The scanner imprints the same number vertically on the left side of the front of a page. With this imprint it is possible to subsequently examine the ballots in a batch to verify that it was scanned by HETP and locate the image.</p>
+<p>In a recent election, approximately 279,000 images were created from the ballots cast by almost 70,000 voters, one image for each side of the two pages that constituted a single ballot. The ratio is not exactly 4:1 because not all voters returned both pages of the ballot.</p>
+</section>
+<section id="ballot-classification">
+<h3>Ballot Classification<a class="headerlink" href="#ballot-classification" title="Permalink to this headline">¶</a></h3>
+<p>The ballot images are first scanned to identify the precinct, page number, and party (for primary elections). Quick reports are provided tallying the counts. The combination of precinct, page number, and party constitute a “ballot type” for this system. That is, all images of the same type have the identical positioning of contests and candidates.</p>
+</section>
+<section id="ballot-templating">
+<h3>Ballot Templating<a class="headerlink" href="#ballot-templating" title="Permalink to this headline">¶</a></h3>
+<p>The collected ballot images are analyzed using software built on the OpenCV library in order to determine where a voter will have marked the ballot for a specific choice in a contest. Because of positioning variability in the scanning, scanning noise, and extraneous marks on ballots, numerous examples of each ballot type are examined until there is sufficient information to deduce the positioning. This analysis is aided by textual information that contains the exact spelling and punctuation of names of contests and candidates for the election.</p>
+</section>
+<section id="ballot-decoding">
+<h3>Ballot Decoding<a class="headerlink" href="#ballot-decoding" title="Permalink to this headline">¶</a></h3>
+<p>Once templates have been established all images are examined to compile data on the marks created by the voters. At this level each sense area (a square on our ballots) is given a score between 0 and 100 that approximates how thoroughly the sense area was filled in. Nothing outside the sense area is examined.</p>
+</section>
+<section id="vote-determination">
+<h3>Vote Determination<a class="headerlink" href="#vote-determination" title="Permalink to this headline">¶</a></h3>
+<p>After the scores are recorded this system examines each contest on a ballot, interpreting the scores to determine whether a given choice was marked by the voter. There are situations where a person is required to interpret the voter’s intent on a scanned ballot. That intent cannot be determined solely by seeing how well a sense area is filled in. These include</p>
+<ul class="simple">
+<li><p>Voters inconsistently fill in the sense areas and due to minor variations in the positioning of ballots it is possible, for example, that a low score indicates that the voter marked the area with a check mark instead of filling it in. On the other hand, it’s also ppossible that a low-sccoring sense area is just a place where the voter accidentially touched it with a pen. This is often called a “hesitation mark”.</p></li>
+<li><p>It is also possible that the voter apparently intentionally marked more sense areas than the number of choices permitted in a contest. This may be an overvote or, in mail-in ballots, it may be a way of correcting an error in marking the ballots. Information outside the sense area enable a person to interpret the voter’s intent.</p></li>
+</ul>
+<p>Official voting systems devote considerable person time to examining ballots with ambiguous marks and recording their interpretation of the voter’s intent.
+However our vote verification time and person bandwidth doesn’t permit manual determination of intent.
+Our software estimates the voter’s intent based on the relative scores of the sense areas within a contest. However, there are situations where the certainty that such determination is an error. For those, we record the vote as uncertain.</p>
+</section>
+<section id="analysis">
+<h3>Analysis<a class="headerlink" href="#analysis" title="Permalink to this headline">¶</a></h3>
+<p>After vote determination we compare our counts to the Official Canvas published by the Elections department. For most contests even if we have some marks as uncertain, the margin between winning and nonwinning choices is so high that we consider that we have confirmed that contest.
+If the margin is close and we have a high number of uncertain votes, we would say that contest was too close to call.
+Interested parties may want to examine the ballot images directly for that contest.</p>
+</section>
+</section>
+</section>
+
+
+          </div>
+          
+        </div>
+      </div>
+      <div class="sphinxsidebar" role="navigation" aria-label="main navigation">
+        <div class="sphinxsidebarwrapper">
+<h1 class="logo"><a href="index.html">Ballot Tally</a></h1>
+
+
+
+
+
+
+
+
+<h3>Navigation</h3>
+<p class="caption" role="heading"><span class="caption-text">Contents:</span></p>
+<ul class="current">
+<li class="toctree-l1 current"><a class="current reference internal" href="#">Concept of Operations</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="#major-processing-steps">Major Processing Steps</a></li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="installation.html">Installation</a></li>
+<li class="toctree-l1"><a class="reference internal" href="operation.html">Operation</a></li>
+</ul>
+
+<div class="relations">
+<h3>Related Topics</h3>
+<ul>
+  <li><a href="index.html">Documentation overview</a><ul>
+      <li>Previous: <a href="index.html" title="previous chapter">ETBV Documentation</a></li>
+      <li>Next: <a href="installation.html" title="next chapter">Installation</a></li>
+  </ul></li>
+</ul>
+</div>
+<div id="searchbox" style="display: none" role="search">
+  <h3 id="searchlabel">Quick search</h3>
+    <div class="searchformwrapper">
+    <form class="search" action="search.html" method="get">
+      <input type="text" name="q" aria-labelledby="searchlabel" autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false"/>
+      <input type="submit" value="Go" />
+    </form>
+    </div>
+</div>
+<script>$('#searchbox').show(0);</script>
+
+
+
+
+
+
+
+
+        </div>
+      </div>
+      <div class="clearer"></div>
+    </div>
+    <div class="footer">
+      &copy;2021, Wes Rishel, David McCallie.
+      
+      |
+      Powered by <a href="http://sphinx-doc.org/">Sphinx 4.1.1</a>
+      &amp; <a href="https://github.com/bitprophet/alabaster">Alabaster 0.7.12</a>
+      
+      |
+      <a href="_sources/concept_of_ops.rst.txt"
+          rel="nofollow">Page source</a>
+    </div>
+
+    
+
+    
+  </body>
+</html>
